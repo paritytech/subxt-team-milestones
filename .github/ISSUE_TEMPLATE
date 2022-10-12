@@ -1,45 +1,15 @@
 ---
 name: Milestone
-about: This is a tools team milestone which aligns with the Parity Roadmap.
-title: 'Project name: Milestone name'
+about: Do not create issues here manually.
 labels: ''
 assignees: ''
 
 ---
 
 <!--------------------------------------------------------
-Steps to create a milestone:
+Do not create issues here manually.
 
-1. Populate the sections below. and hit "Submit new issue".
-2. Now we know the issue number, edit it to fix the URL at the bottom.
-3. Then, add it to the "Tools Team" project:
-   - Set the "Status" to "Milestone".
-   - Set the "MS" to a number equalling this issue number.
-4. Then, add it to the "Parity Roadmap" project:
-   - Set the "Status" to "Open".
-   - Set the "Team" to "Tools".
-   - Set the "Deadline" to the month that this will be done by (speak to James if unsure).
+Issues are automatically created in this repository and are kept in sync with github milestones.
 
-Now we have a milestone, go to our project board: https://github.com/orgs/paritytech/projects/22.
-- Click on the MS number; it'll filter everything else out.
-- Now, click the "+ Add item" in the "Todo" column to add issues for this milestone.
+If you're expecting an issue to exist here, instead open a milestone in one of our team repositories. It'll eventually be synced to this one.
 --------------------------------------------------------->
-
-# The Vision
-
-\<Describe here what this milestone is about and where the journey should go>
-
-
-# The Plan
-\<What steps are needed to realise the vision?> 
-
-# Open Questions
-_If you want to help us out and contribute to this issue, in this section you can find open questions and tasks where we would appreciate any input._
-
-\<Leave open questions or tasks where the community could help>
-
----
-
-Here you can find the board with specific sub-tasks to this milestone:
-
-https://github.com/orgs/paritytech/projects/22/views/1?filterQuery=ms:PUT_THIS_ISSUE_NUMBER_HERE

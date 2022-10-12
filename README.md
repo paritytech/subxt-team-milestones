@@ -1,7 +1,7 @@
 # tools-team-milestones
 
-A meta repository which tracks all active Tools Team milestones via issues.
+This repository exists only as an area to help sync github milestones in repositories of interest to our project boards.
 
-Each issue follows a set template, and links to the tools team project board where you can see the progress of any sub tasks.
+**Everything is automated, so there should be no need for you to create any issues or edit their description.**
 
-If you're a member of the tools team and would like to add a new milestone, click "create new issue" and follow the template guidelines.
+That said, you can feel free to comment on, or assign yourself to, any of the issues created here to discuss or make it clear that you're working on a given milestone.
