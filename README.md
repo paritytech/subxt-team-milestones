@@ -1,4 +1,4 @@
-# tools-team-milestones
+# subxt-team-milestones
 
 This repository exists only as an area to help sync github milestones in repositories of interest to our project boards.
 
